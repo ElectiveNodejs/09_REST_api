@@ -9,4 +9,4 @@ Agenda dag 9 d. 3-11-2017
 * [CORS](https://www.w3.org/wiki/CORS_Enabled#What_is_CORS_about.3F)
   * [NPM Cors](https://www.npmjs.com/package/cors)
 
-
+* [Statuskoder](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
